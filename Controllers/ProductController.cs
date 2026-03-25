@@ -5,7 +5,7 @@ namespace Capstone.Controllers
     [ApiController]
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
-    {
+    {   
         private static List<Product> products = new List<Product>
         {
             new Product { Id = 1, Name = "Mouse", Category = "Electronics", Qty = 50 },
