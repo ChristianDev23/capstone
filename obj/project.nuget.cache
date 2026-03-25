@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Dj6bh7FPeQQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Windows 11\\Downloads\\UPDATED\\capstone\\CAPSTONE\\Capstone.csproj",
+=======
+  "dgSpecHash": "ct/aP5QAw8U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows 11\\Downloads\\Capstone\\Capstone.csproj",
+>>>>>>> 6db2b41b996ad8cd4c49376274c55b909d678f68
   "expectedPackageFiles": [],
   "logs": []
 }

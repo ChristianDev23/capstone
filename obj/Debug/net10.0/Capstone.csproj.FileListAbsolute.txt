@@ -18,7 +18,10 @@ C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\rjsmrazor.dswa.cache.js
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\scopedcss\bundle\Capstone.styles.css
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\compressed\p0vw00phnn-{0}-qnjwtuslz0-qnjwtuslz0.gz
+<<<<<<< HEAD
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\compressed\n12dbjx1ta-{0}-hjqp8aix9q-hjqp8aix9q.gz
+=======
+>>>>>>> 6db2b41b996ad8cd4c49376274c55b909d678f68
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\staticwebassets.development.json
@@ -30,6 +33,7 @@ C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\Capstone.pdb
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\Capstone.genruntimeconfig.cache
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\ref\Capstone.dll
 C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\compressed\fmooc8one8-{0}-75msvhdlfd-75msvhdlfd.gz
+<<<<<<< HEAD
 C:\Users\Windows 11\Downloads\Inventory\capstone\Capstone\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\Windows 11\Downloads\Inventory\capstone\Capstone\bin\Debug\net10.0\appsettings.json
 C:\Users\Windows 11\Downloads\Inventory\capstone\Capstone\bin\Debug\net10.0\Capstone.staticwebassets.runtime.json
@@ -95,3 +99,7 @@ C:\Users\Windows 11\Downloads\UPDATED\capstone\CAPSTONE\obj\Debug\net10.0\refint
 C:\Users\Windows 11\Downloads\UPDATED\capstone\CAPSTONE\obj\Debug\net10.0\Capstone.pdb
 C:\Users\Windows 11\Downloads\UPDATED\capstone\CAPSTONE\obj\Debug\net10.0\Capstone.genruntimeconfig.cache
 C:\Users\Windows 11\Downloads\UPDATED\capstone\CAPSTONE\obj\Debug\net10.0\ref\Capstone.dll
+=======
+C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\Capstone.sourcelink.json
+C:\Users\Windows 11\Downloads\Capstone\obj\Debug\net10.0\compressed\n12dbjx1ta-{0}-txab9mqib2-txab9mqib2.gz
+>>>>>>> 6db2b41b996ad8cd4c49376274c55b909d678f68

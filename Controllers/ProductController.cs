@@ -5,12 +5,20 @@ namespace Capstone.Controllers
     [ApiController]
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
+<<<<<<< HEAD
     {
+=======
+    {   
+>>>>>>> 6db2b41b996ad8cd4c49376274c55b909d678f68
         private static List<Product> products = new List<Product>
         {
             new Product { Id = 1, Name = "Mouse", Category = "Electronics", Qty = 50 },
             new Product { Id = 2, Name = "Chair", Category = "Furniture", Qty = 5 },
+<<<<<<< HEAD
             new Product { Id = 3, Name = "Shirt", Category = "Apparel", Qty = 0 },
+=======
+            new Product { Id = 3, Name = "Shirt", Category = "Apparel", Qty = 0 }
+>>>>>>> 6db2b41b996ad8cd4c49376274c55b909d678f68
         };
 
         [HttpGet]
