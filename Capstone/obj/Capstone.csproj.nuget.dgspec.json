@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 11\\Downloads\\Capstone\\Capstone.csproj": {}
+    "C:\\Users\\Windows 11\\Downloads\\Inventory\\capstone\\Capstone\\Capstone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 11\\Downloads\\Capstone\\Capstone.csproj": {
+    "C:\\Users\\Windows 11\\Downloads\\Inventory\\capstone\\Capstone\\Capstone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 11\\Downloads\\Capstone\\Capstone.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 11\\Downloads\\Inventory\\capstone\\Capstone\\Capstone.csproj",
         "projectName": "Capstone",
-        "projectPath": "C:\\Users\\Windows 11\\Downloads\\Capstone\\Capstone.csproj",
+        "projectPath": "C:\\Users\\Windows 11\\Downloads\\Inventory\\capstone\\Capstone\\Capstone.csproj",
         "packagesPath": "C:\\Users\\Windows 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 11\\Downloads\\Capstone\\obj\\",
+        "outputPath": "C:\\Users\\Windows 11\\Downloads\\Inventory\\capstone\\Capstone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
