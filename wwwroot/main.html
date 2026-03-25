@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Inventory Dashboard</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<link rel="stylesheet" href="design.css">
+</head>
+<body>
+
+<div class="sidebar">
+    <h2><i class="fa fa-cube"></i> Inventory</h2>
+    <ul>
+        <li>Dashboard</li>  
+        <li>Products</li>
+        <li>Reports</li>
+        <li>LOGOUT</li>
+    </ul>
+</div>
+
+<div class="main">
+
+<div class="topbar">
+    <input type="text" id="search" class="search" placeholder="Search products...">
+    <button class="btn" onclick="openModal()">+ Add Product</button>
+</div>
+
+<div class="cards">
+    <div class="card">
+        <h3>Total Products</h3>
+        <h2 id="totalProducts">0</h2>
+    </div>
+    <div class="card">
+        <h3>Available</h3>
+        <h2 id="available">0</h2>
+    </div>
+    <div class="card">
+        <h3>Low Stock</h3>
+        <h2 id="low">0</h2>
+    </div>
+    <div class="card">
+        <h3>Out of Stock</h3>
+        <h2 id="out">0</h2>
+    </div>
+</div>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Category</th>
+<th>Quantity</th>
+<th>Actions</th>
+</tr>
+</thead>
+<tbody id="productTable"></tbody>
+</table>
+
+<!-- kani ako ge ADD -->
+<div class="chart-box">
+
+    <div class="legend">
+        <div class="legend-item">
+            <span class="box green"></span> Available
+        </div>
+        <div class="legend-item">
+            <span class="box yellow"></span> Low
+        </div>
+        <div class="legend-item">
+            <span class="box red"></span> Out
+        </div>
+    </div>
+
+    <div class="circles">
+        <div class="circle green">
+            <span id="circleAvailable">0</span>
+            <p>Available</p>
+        </div>
+
+        <div class="circle yellow">
+            <span id="circleLow">0</span>
+            <p>Low</p>
+        </div>
+
+        <div class="circle red">
+            <span id="circleOut">0</span>
+            <p>Out</p>
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+<!-- MODAL -->
+<div class="modal" id="modal">
+<div class="modal-content">
+<h3>Add Product</h3>
+<input type="text" id="name" placeholder="Product Name">
+<input type="text" id="category" placeholder="Category">
+<input type="number" id="qty" placeholder="Quantity">
+<button class="btn" onclick="saveProduct()">Save</button>
+<button onclick="closeModal()">Cancel</button>
+</div>
+</div>
+
+<script src="function.js"></script>
+</body>
+</html>
