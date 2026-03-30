@@ -9,14 +9,14 @@ builder.Services.AddCors(options =>
     options.AddDefaultPolicy(policy =>
     {
         policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
+            .AllowAnyMethod()
+            .AllowAnyHeader();
     });
 });
 
 var app = builder.Build();
 
-app.UseStaticFiles(); // Serve wwwroot
+app.UseStaticFiles(); // Serve wwwroot (your HTML/CSS/JS)
 app.UseCors();        // Enable CORS
 app.MapControllers();
 

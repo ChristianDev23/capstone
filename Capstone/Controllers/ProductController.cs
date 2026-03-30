@@ -6,7 +6,7 @@ namespace Capstone.Controllers
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
     {
-        private static List<Product> products = new List<Product>
+        private static List<Product> products = new()
         {
             new Product { Id = 1, Name = "Mouse", Category = "Electronics", Qty = 50 },
             new Product { Id = 2, Name = "Chair", Category = "Furniture", Qty = 5 },
@@ -17,20 +17,22 @@ namespace Capstone.Controllers
         public IActionResult Get() => new JsonResult(products);
 
         [HttpPost]
-        public IActionResult Add([FromBody] Product p)
+        public IActionResult Add([FromBody] Product p, [FromHeader(Name="Role")] string role)
         {
+            if (role != "admin") return Unauthorized(new { error = "Not authorized" });
             if (p == null || string.IsNullOrEmpty(p.Name) || string.IsNullOrEmpty(p.Category))
                 return BadRequest(new { error = "Invalid product data" });
 
-            p.Id = products.Count > 0 ? products.Max(x => x.Id) + 1 : 1;
+            p.Id = products.Any() ? products.Max(x => x.Id) + 1 : 1;
             products.Add(p);
-
             return new JsonResult(products);
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(int id, [FromHeader(Name="Role")] string role)
         {
+            if (role != "admin") return Unauthorized(new { error = "Not authorized" });
+
             var item = products.FirstOrDefault(x => x.Id == id);
             if (item == null) return NotFound(new { error = "Product not found" });
 
@@ -39,8 +41,10 @@ namespace Capstone.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Update(int id, [FromBody] Product updated)
+        public IActionResult Update(int id, [FromBody] Product updated, [FromHeader(Name="Role")] string role)
         {
+            if (role != "admin") return Unauthorized(new { error = "Not authorized" });
+
             var item = products.FirstOrDefault(x => x.Id == id);
             if (item == null) return NotFound(new { error = "Product not found" });
 
