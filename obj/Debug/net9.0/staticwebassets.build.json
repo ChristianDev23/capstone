@@ -1,1 +1,2371 @@
-{"Version":1,"Hash":"buyIWU7EEy9fdiSjSo3jg1HuLsIk2UYUPBcF9S0+fKA=","Source":"Capstone","BasePath":"_content/Capstone","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"Capstone\\wwwroot","Source":"Capstone","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","Pattern":"**"}],"Assets":[{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\2rq9vei6kk-a8vzwp8dft.gz","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\","BasePath":"_content/Capstone","RelativePath":"javascript/function#[.{fingerprint=a8vzwp8dft}]?.js.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\function.js","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"bfb4ijfbsv","Integrity":"10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\function.js","FileLength":2336,"LastWriteTime":"2026-04-06T16:47:19+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\83x2r4rhdt-plukunm8em.gz","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\","BasePath":"_content/Capstone","RelativePath":"main#[.{fingerprint=plukunm8em}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\main.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"m8pxbtuir3","Integrity":"+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\main.html","FileLength":901,"LastWriteTime":"2026-04-06T16:47:19+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kdbhhl1hru-kdsl1crc8b.gz","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\","BasePath":"_content/Capstone","RelativePath":"javascript/script#[.{fingerprint=kdsl1crc8b}]?.js.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\script.js","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"91ufm05uwv","Integrity":"zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\script.js","FileLength":855,"LastWriteTime":"2026-04-06T16:24:09+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kyzugpd9wb-tau0ib3pft.gz","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\","BasePath":"_content/Capstone","RelativePath":"css/design#[.{fingerprint=tau0ib3pft}]?.css.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\design.css","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"1fb2xfozdb","Integrity":"TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\design.css","FileLength":1299,"LastWriteTime":"2026-04-06T16:19:34+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\sw84ji0jhb-d6qt4kg7cw.gz","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\","BasePath":"_content/Capstone","RelativePath":"css/style#[.{fingerprint=d6qt4kg7cw}]?.css.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\style.css","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"vcya6lodwq","Integrity":"kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\style.css","FileLength":932,"LastWriteTime":"2026-04-06T15:28:08+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\wkx6pqsxfq-ipthgkrsin.gz","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\","BasePath":"_content/Capstone","RelativePath":"index#[.{fingerprint=ipthgkrsin}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\index.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"t0wrznlske","Integrity":"3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\index.html","FileLength":593,"LastWriteTime":"2026-04-06T16:40:22+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\background.jfif","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"assets/background#[.{fingerprint}]?.jfif","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"dpf6v9vh7q","Integrity":"AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\assets\\background.jfif","FileLength":4767,"LastWriteTime":"2026-03-30T14:39:22+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\bg.png","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"assets/bg#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"odej5fotlp","Integrity":"dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\assets\\bg.png","FileLength":637071,"LastWriteTime":"2026-03-30T14:17:29+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\logo.png","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"assets/logo#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"jdknqmrlw7","Integrity":"5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\assets\\logo.png","FileLength":19189,"LastWriteTime":"2026-03-30T14:17:35+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\design.css","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"css/design#[.{fingerprint}]?.css","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"tau0ib3pft","Integrity":"ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\css\\design.css","FileLength":4713,"LastWriteTime":"2026-04-06T15:59:02+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\style.css","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"css/style#[.{fingerprint}]?.css","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"d6qt4kg7cw","Integrity":"O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\css\\style.css","FileLength":2690,"LastWriteTime":"2026-04-06T15:18:34+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\index.html","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"index#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"ipthgkrsin","Integrity":"pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\index.html","FileLength":1350,"LastWriteTime":"2026-04-06T16:25:41+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\function.js","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"javascript/function#[.{fingerprint}]?.js","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"a8vzwp8dft","Integrity":"2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\javascript\\function.js","FileLength":8600,"LastWriteTime":"2026-04-06T16:46:30+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\script.js","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"javascript/script#[.{fingerprint}]?.js","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"kdsl1crc8b","Integrity":"GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\javascript\\script.js","FileLength":2188,"LastWriteTime":"2026-04-06T16:20:51+00:00"},{"Identity":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\main.html","SourceId":"Capstone","SourceType":"Discovered","ContentRoot":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\","BasePath":"_content/Capstone","RelativePath":"main#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"plukunm8em","Integrity":"7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\main.html","FileLength":2624,"LastWriteTime":"2026-04-06T16:47:05+00:00"}],"Endpoints":[{"Route":"assets/background.dpf6v9vh7q.jfif","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\background.jfif","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"4767"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\"AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE=\""},{"Name":"Last-Modified","Value":"Mon, 30 Mar 2026 14:39:22 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"dpf6v9vh7q"},{"Name":"label","Value":"assets/background.jfif"},{"Name":"integrity","Value":"sha256-AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE="}]},{"Route":"assets/background.jfif","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\background.jfif","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"4767"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\"AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE=\""},{"Name":"Last-Modified","Value":"Mon, 30 Mar 2026 14:39:22 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE="}]},{"Route":"assets/bg.odej5fotlp.png","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\bg.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"637071"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488=\""},{"Name":"Last-Modified","Value":"Mon, 30 Mar 2026 14:17:29 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"odej5fotlp"},{"Name":"label","Value":"assets/bg.png"},{"Name":"integrity","Value":"sha256-dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488="}]},{"Route":"assets/bg.png","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\bg.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"637071"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488=\""},{"Name":"Last-Modified","Value":"Mon, 30 Mar 2026 14:17:29 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488="}]},{"Route":"assets/logo.jdknqmrlw7.png","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\logo.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"19189"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4=\""},{"Name":"Last-Modified","Value":"Mon, 30 Mar 2026 14:17:35 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"jdknqmrlw7"},{"Name":"label","Value":"assets/logo.png"},{"Name":"integrity","Value":"sha256-5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4="}]},{"Route":"assets/logo.png","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\assets\\logo.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"19189"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4=\""},{"Name":"Last-Modified","Value":"Mon, 30 Mar 2026 14:17:35 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4="}]},{"Route":"css/design.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kyzugpd9wb-tau0ib3pft.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000769230769"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1299"},{"Name":"ETag","Value":"\"TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:19:34 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"W/\"ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw=\""}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw="}]},{"Route":"css/design.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\design.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"4713"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:59:02 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw="}]},{"Route":"css/design.css.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kyzugpd9wb-tau0ib3pft.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1299"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:19:34 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4="}]},{"Route":"css/design.tau0ib3pft.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kyzugpd9wb-tau0ib3pft.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000769230769"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1299"},{"Name":"ETag","Value":"\"TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:19:34 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"W/\"ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw=\""}],"EndpointProperties":[{"Name":"fingerprint","Value":"tau0ib3pft"},{"Name":"label","Value":"css/design.css"},{"Name":"integrity","Value":"sha256-ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw="}]},{"Route":"css/design.tau0ib3pft.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\design.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"4713"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:59:02 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"tau0ib3pft"},{"Name":"label","Value":"css/design.css"},{"Name":"integrity","Value":"sha256-ZWf3HbcUlfxP4i36ng7PONLAclWh6xr0yuh6bhad4Aw="}]},{"Route":"css/design.tau0ib3pft.css.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kyzugpd9wb-tau0ib3pft.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1299"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:19:34 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"tau0ib3pft"},{"Name":"label","Value":"css/design.css.gz"},{"Name":"integrity","Value":"sha256-TUPU9aosA8xoF289nxfcqCNeUMbmdQeluxPJCoaH1L4="}]},{"Route":"css/style.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\sw84ji0jhb-d6qt4kg7cw.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001071811361"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"932"},{"Name":"ETag","Value":"\"kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:28:08 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"W/\"O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc=\""}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc="}]},{"Route":"css/style.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\style.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2690"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:18:34 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc="}]},{"Route":"css/style.css.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\sw84ji0jhb-d6qt4kg7cw.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"932"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:28:08 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0="}]},{"Route":"css/style.d6qt4kg7cw.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\sw84ji0jhb-d6qt4kg7cw.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001071811361"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"932"},{"Name":"ETag","Value":"\"kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:28:08 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"W/\"O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc=\""}],"EndpointProperties":[{"Name":"fingerprint","Value":"d6qt4kg7cw"},{"Name":"label","Value":"css/style.css"},{"Name":"integrity","Value":"sha256-O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc="}]},{"Route":"css/style.d6qt4kg7cw.css","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\css\\style.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2690"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:18:34 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"d6qt4kg7cw"},{"Name":"label","Value":"css/style.css"},{"Name":"integrity","Value":"sha256-O8Je0YKqZ/brBv6d6WFb3u5s7fNj3e59GmJIfuBlRQc="}]},{"Route":"css/style.d6qt4kg7cw.css.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\sw84ji0jhb-d6qt4kg7cw.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"932"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 15:28:08 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"d6qt4kg7cw"},{"Name":"label","Value":"css/style.css.gz"},{"Name":"integrity","Value":"sha256-kTm0VDlouZLgrGxcPkSWf39k3YE9GCa+MFii9UMpiZ0="}]},{"Route":"index.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\wkx6pqsxfq-ipthgkrsin.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001683501684"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"593"},{"Name":"ETag","Value":"\"3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:40:22 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"W/\"pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E=\""}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E="}]},{"Route":"index.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\index.html","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1350"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:25:41 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E="}]},{"Route":"index.html.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\wkx6pqsxfq-ipthgkrsin.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"593"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:40:22 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c="}]},{"Route":"index.ipthgkrsin.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\wkx6pqsxfq-ipthgkrsin.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001683501684"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"593"},{"Name":"ETag","Value":"\"3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:40:22 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"W/\"pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E=\""}],"EndpointProperties":[{"Name":"fingerprint","Value":"ipthgkrsin"},{"Name":"label","Value":"index.html"},{"Name":"integrity","Value":"sha256-pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E="}]},{"Route":"index.ipthgkrsin.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\index.html","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"1350"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:25:41 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"ipthgkrsin"},{"Name":"label","Value":"index.html"},{"Name":"integrity","Value":"sha256-pkB/a66LET530NHjVzj+sBMjpEg9hjygIWXMlgeIH/E="}]},{"Route":"index.ipthgkrsin.html.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\wkx6pqsxfq-ipthgkrsin.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"593"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:40:22 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"ipthgkrsin"},{"Name":"label","Value":"index.html.gz"},{"Name":"integrity","Value":"sha256-3emgqreubE49gWiphhhlqQpH9zDIJnNSlSAvojh2q/c="}]},{"Route":"javascript/function.a8vzwp8dft.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\2rq9vei6kk-a8vzwp8dft.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000427899016"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2336"},{"Name":"ETag","Value":"\"10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"W/\"2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o=\""}],"EndpointProperties":[{"Name":"fingerprint","Value":"a8vzwp8dft"},{"Name":"label","Value":"javascript/function.js"},{"Name":"integrity","Value":"sha256-2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o="}]},{"Route":"javascript/function.a8vzwp8dft.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\function.js","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"8600"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:46:30 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"a8vzwp8dft"},{"Name":"label","Value":"javascript/function.js"},{"Name":"integrity","Value":"sha256-2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o="}]},{"Route":"javascript/function.a8vzwp8dft.js.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\2rq9vei6kk-a8vzwp8dft.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2336"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"a8vzwp8dft"},{"Name":"label","Value":"javascript/function.js.gz"},{"Name":"integrity","Value":"sha256-10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg="}]},{"Route":"javascript/function.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\2rq9vei6kk-a8vzwp8dft.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000427899016"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2336"},{"Name":"ETag","Value":"\"10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"W/\"2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o=\""}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o="}]},{"Route":"javascript/function.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\function.js","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"8600"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:46:30 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-2my8din/Vi0QxVGCSHYx+zRmevECRXWqBBQPz5YrV/o="}]},{"Route":"javascript/function.js.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\2rq9vei6kk-a8vzwp8dft.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2336"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-10AB3z0hkJIGE2zMxt/Uf4Wv1L+qzXjMvPpIp+dJBwg="}]},{"Route":"javascript/script.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kdbhhl1hru-kdsl1crc8b.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001168224299"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"855"},{"Name":"ETag","Value":"\"zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:24:09 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"W/\"GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E=\""}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E="}]},{"Route":"javascript/script.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\script.js","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2188"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:20:51 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E="}]},{"Route":"javascript/script.js.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kdbhhl1hru-kdsl1crc8b.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"855"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:24:09 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo="}]},{"Route":"javascript/script.kdsl1crc8b.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kdbhhl1hru-kdsl1crc8b.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001168224299"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"855"},{"Name":"ETag","Value":"\"zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:24:09 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"W/\"GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E=\""}],"EndpointProperties":[{"Name":"fingerprint","Value":"kdsl1crc8b"},{"Name":"label","Value":"javascript/script.js"},{"Name":"integrity","Value":"sha256-GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E="}]},{"Route":"javascript/script.kdsl1crc8b.js","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\javascript\\script.js","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2188"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:20:51 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"kdsl1crc8b"},{"Name":"label","Value":"javascript/script.js"},{"Name":"integrity","Value":"sha256-GHyxtJFfZGrU+GW8SkB7gWUvJhl1CmT3O5/73bRpX6E="}]},{"Route":"javascript/script.kdsl1crc8b.js.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\kdbhhl1hru-kdsl1crc8b.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"855"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:24:09 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"kdsl1crc8b"},{"Name":"label","Value":"javascript/script.js.gz"},{"Name":"integrity","Value":"sha256-zevx1HhawXV+VicT+LSPcA6IgkkSYWSvAVPo7SBDPpo="}]},{"Route":"main.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\83x2r4rhdt-plukunm8em.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001108647450"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"901"},{"Name":"ETag","Value":"\"+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"W/\"7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI=\""}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI="}]},{"Route":"main.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\main.html","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2624"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:05 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI="}]},{"Route":"main.html.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\83x2r4rhdt-plukunm8em.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"901"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc="}]},{"Route":"main.plukunm8em.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\83x2r4rhdt-plukunm8em.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.001108647450"}],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"901"},{"Name":"ETag","Value":"\"+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"W/\"7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI=\""}],"EndpointProperties":[{"Name":"fingerprint","Value":"plukunm8em"},{"Name":"label","Value":"main.html"},{"Name":"integrity","Value":"sha256-7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI="}]},{"Route":"main.plukunm8em.html","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\wwwroot\\main.html","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2624"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:05 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"plukunm8em"},{"Name":"label","Value":"main.html"},{"Name":"integrity","Value":"sha256-7dGXYUnpEcQqLDSBK2kSaMs5zgtyELVskadpU/4X3hI="}]},{"Route":"main.plukunm8em.html.gz","AssetFile":"C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\obj\\Debug\\net9.0\\compressed\\83x2r4rhdt-plukunm8em.gz","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"901"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc=\""},{"Name":"Last-Modified","Value":"Mon, 06 Apr 2026 16:47:19 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Vary","Value":"Content-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"plukunm8em"},{"Name":"label","Value":"main.html.gz"},{"Name":"integrity","Value":"sha256-+iIe0Hx/HKuldUp0aOsap708cdvfJPUPZkaYPC5h6mc="}]}]}
+{
+  "Version": 1,
+  "Hash": "1Zgnho+u+jpeq8fZh9eBEWKnZ5dgbeggbxFbP9S0zZ8=",
+  "Source": "Capstone",
+  "BasePath": "_content/Capstone",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Capstone/wwwroot",
+      "Source": "Capstone",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "javascript/function#[.{fingerprint=0npjt1gldr}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ns96ig703o",
+      "Integrity": "F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/83x2r4rhdt-4hddwyn0mi.gz",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "main#[.{fingerprint=4hddwyn0mi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/main.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9odk9s5afl",
+      "Integrity": "Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/main.html"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kdbhhl1hru-maxswjf0zd.gz",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "javascript/script#[.{fingerprint=maxswjf0zd}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/javascript/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1ckvzdzxw8",
+      "Integrity": "sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/javascript/script.js"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kyzugpd9wb-dtw8svqzrl.gz",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "css/design#[.{fingerprint=dtw8svqzrl}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/css/design.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gxzodmmzsa",
+      "Integrity": "5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/css/design.css"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/sw84ji0jhb-4hidi85pvu.gz",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "css/style#[.{fingerprint=4hidi85pvu}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fb97zdrl4x",
+      "Integrity": "63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/wkx6pqsxfq-txvf5uji3h.gz",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "index#[.{fingerprint=txvf5uji3h}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uoin8502hf",
+      "Integrity": "ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/assets/background.jfif",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "assets/background#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dpf6v9vh7q",
+      "Integrity": "AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/background.jfif"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/assets/bg.png",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "assets/bg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "odej5fotlp",
+      "Integrity": "dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/bg.png"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/assets/logo.png",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "assets/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdknqmrlw7",
+      "Integrity": "5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/logo.png"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/css/design.css",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "css/design#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dtw8svqzrl",
+      "Integrity": "ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/design.css"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/css/style.css",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4hidi85pvu",
+      "Integrity": "yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/index.html",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "txvf5uji3h",
+      "Integrity": "cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "javascript/function#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0npjt1gldr",
+      "Integrity": "dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/javascript/function.js"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/javascript/script.js",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "javascript/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "maxswjf0zd",
+      "Integrity": "jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/javascript/script.js"
+    },
+    {
+      "Identity": "/home/archlinux/Downloads/capstone/wwwroot/main.html",
+      "SourceId": "Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/archlinux/Downloads/capstone/wwwroot/",
+      "BasePath": "_content/Capstone",
+      "RelativePath": "main#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4hddwyn0mi",
+      "Integrity": "iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/background.dpf6v9vh7q.jfif",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/assets/background.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dpf6v9vh7q"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/background.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/background.jfif",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/assets/background.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AQjDucXT/skeQ1uNZzJGm3ZZSolqm6DzP2QZx/sjunE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/bg.odej5fotlp.png",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/assets/bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "637071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "odej5fotlp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/bg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488="
+        }
+      ]
+    },
+    {
+      "Route": "assets/bg.png",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/assets/bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "637071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dK/yVxjJee3ugfg7kw4sYjSHzZ4ofubMTDm5kvMu488="
+        }
+      ]
+    },
+    {
+      "Route": "assets/logo.jdknqmrlw7.png",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/assets/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdknqmrlw7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/logo.png",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/assets/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5yjTSrnW8vkxQ0WlBDzwpV5WyRgB4OnTxDUfQx25QL4="
+        }
+      ]
+    },
+    {
+      "Route": "css/design.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kyzugpd9wb-dtw8svqzrl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000941619586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1061"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/design.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/css/design.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/design.css.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kyzugpd9wb-dtw8svqzrl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc="
+        }
+      ]
+    },
+    {
+      "Route": "css/design.dtw8svqzrl.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kyzugpd9wb-dtw8svqzrl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000941619586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1061"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dtw8svqzrl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/design.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/design.dtw8svqzrl.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/css/design.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dtw8svqzrl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/design.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ITDXde0YQ25E8L3jFEKZQnzy/d2TlV49jNMM7U8fCVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/design.dtw8svqzrl.css.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kyzugpd9wb-dtw8svqzrl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:16:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dtw8svqzrl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/design.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5DArIsjwX7pVZMp/whvQ8mUM2WoeKyb3FTimCEcqBzc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.4hidi85pvu.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/sw84ji0jhb-4hidi85pvu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001126126126"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hidi85pvu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.4hidi85pvu.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hidi85pvu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.4hidi85pvu.css.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/sw84ji0jhb-4hidi85pvu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hidi85pvu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/sw84ji0jhb-4hidi85pvu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001126126126"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yKBi9bBBAFZX/4QicDEMmjLX12UhHo40fZvUA7vU+ho="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/sw84ji0jhb-4hidi85pvu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-63Hq9T/g4yU++exfL2OokNWC2UjuuLywbJbAuJhhRYY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/wkx6pqsxfq-txvf5uji3h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001661129568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "601"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/wkx6pqsxfq-txvf5uji3h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w="
+        }
+      ]
+    },
+    {
+      "Route": "index.txvf5uji3h.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/wkx6pqsxfq-txvf5uji3h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001661129568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "601"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txvf5uji3h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A="
+        }
+      ]
+    },
+    {
+      "Route": "index.txvf5uji3h.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txvf5uji3h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A="
+        }
+      ]
+    },
+    {
+      "Route": "index.txvf5uji3h.html.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/wkx6pqsxfq-txvf5uji3h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txvf5uji3h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ooWjIIuCZxjtT2XptXy7F8Gt7l8U5u+pwLZ4LhSNO5w="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.0npjt1gldr.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000446229362"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2240"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0npjt1gldr"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/function.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.0npjt1gldr.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0npjt1gldr"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/function.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.0npjt1gldr.js.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0npjt1gldr"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/function.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000446229362"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2240"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.js.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/script.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kdbhhl1hru-maxswjf0zd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001290322581"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "774"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/script.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/script.js.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kdbhhl1hru-maxswjf0zd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/script.maxswjf0zd.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kdbhhl1hru-maxswjf0zd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001290322581"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "774"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "maxswjf0zd"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/script.maxswjf0zd.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "maxswjf0zd"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtPLnnU0Hj9yEaNMsF4tVK9EfcdmG5evE/0sRVm2wYc="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/script.maxswjf0zd.js.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kdbhhl1hru-maxswjf0zd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "maxswjf0zd"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sT9nkDaby3dv5Nr7Ndxxy4yv39TY9WUqgb8hwlBDRSo="
+        }
+      ]
+    },
+    {
+      "Route": "main.4hddwyn0mi.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/83x2r4rhdt-4hddwyn0mi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001175088132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hddwyn0mi"
+        },
+        {
+          "Name": "label",
+          "Value": "main.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.4hddwyn0mi.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/main.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hddwyn0mi"
+        },
+        {
+          "Name": "label",
+          "Value": "main.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.4hddwyn0mi.html.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/83x2r4rhdt-4hddwyn0mi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hddwyn0mi"
+        },
+        {
+          "Name": "label",
+          "Value": "main.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc="
+        }
+      ]
+    },
+    {
+      "Route": "main.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/83x2r4rhdt-4hddwyn0mi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001175088132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.html",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/main.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCIgU/hCpUDYMU+RRgqWmipe2CEuc+EKaxEhsaswAXQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.html.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/83x2r4rhdt-4hddwyn0mi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oes7xDlNS11XVN6aezDvSl/nkMy6LpB5e/rS3yJZFVc="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/assets/background.jfif",
+      "PackagePath": "staticwebassets/assets/background.jfif"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/assets/bg.png",
+      "PackagePath": "staticwebassets/assets/bg.png"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/assets/logo.png",
+      "PackagePath": "staticwebassets/assets/logo.png"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/css/design.css",
+      "PackagePath": "staticwebassets/css/design.css"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
+      "PackagePath": "staticwebassets/javascript/function.js"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/javascript/script.js",
+      "PackagePath": "staticwebassets/javascript/script.js"
+    },
+    {
+      "Id": "/home/archlinux/Downloads/capstone/wwwroot/main.html",
+      "PackagePath": "staticwebassets/main.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Capstone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Capstone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Capstone.props",
+      "PackagePath": "build\\Capstone.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Capstone.props",
+      "PackagePath": "buildMultiTargeting\\Capstone.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Capstone.props",
+      "PackagePath": "buildTransitive\\Capstone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S8Z+6KTkN5Y=",
+  "dgSpecHash": "T58aqXTkD2o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SMEAG\\Downloads\\Inventory\\capstone\\Capstone\\Capstone.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/archlinux/Downloads/capstone/Capstone.csproj",
+  "expectedPackageFiles": [
+    "/home/archlinux/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,7 +6,6 @@ namespace Capstone.Controllers
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
     {
-        // Start with empty inventory
         private static List<Product> products = new List<Product>();
 
         [HttpGet]
@@ -20,6 +19,7 @@ namespace Capstone.Controllers
                 return BadRequest(new { error = "Invalid product data" });
 
             p.Id = products.Any() ? products.Max(x => x.Id) + 1 : 1;
+            p.LastUpdated = DateTime.UtcNow; 
             products.Add(p);
             return new JsonResult(products);
         }
@@ -47,6 +47,7 @@ namespace Capstone.Controllers
             if (!string.IsNullOrEmpty(updated.Name)) item.Name = updated.Name;
             if (!string.IsNullOrEmpty(updated.Category)) item.Category = updated.Category;
             item.Qty = updated.Qty;
+            item.LastUpdated = DateTime.UtcNow; 
 
             return new JsonResult(products);
         }
@@ -58,5 +59,7 @@ namespace Capstone.Controllers
         public string Name { get; set; } = string.Empty;
         public string Category { get; set; } = string.Empty;
         public int Qty { get; set; }
+
+        public DateTime LastUpdated { get; set; } 
     }
 }

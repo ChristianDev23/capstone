@@ -8,9 +8,9 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-        <!--UPDATED NA DIRI PRE-->
 
 <div id="notification" class="notification"></div>
+
 <div class="sidebar">
     <h2>Inventory</h2>
     <ul>
@@ -19,6 +19,7 @@
         <li id="logoutBtn">LOGOUT</li>
     </ul>
 </div>
+
 <div class="main">
     <div id="dashboardPage">
         <h2>Dashboard</h2>
@@ -30,22 +31,26 @@
         </div>
         <div class="category-charts"></div>
     </div>
+
     <div id="productsPage" style="display:none;">
         <div class="topbar">
             <input type="text" id="search" class="search" placeholder="Search products...">
             <button class="btn" id="addBtn" onclick="openModal()">+ Add Product</button>
         </div>
+
         <table>
             <thead>
                 <tr>
                     <th>Name</th>
                     <th>Category</th>
                     <th>Quantity</th>
+                    <th>Last Updated</th>
                     <th>Actions</th>
                 </tr>
             </thead>
             <tbody id="productTable"></tbody>
         </table>
+
         <div class="modal" id="modal">
             <div class="modal-content">
                 <h3>Add / Edit Product</h3>
@@ -63,6 +68,7 @@
         </div>
     </div>
 </div>
+
 <script src="javascript/function.js"></script>
 </body>
 </html>

@@ -51,6 +51,12 @@ async function fetchProducts(){
         const res = await fetch(API_URL);
         if(!res.ok) throw new Error("Failed to fetch products");
         products = await res.json();
+
+        products = products.map(p => {
+            if(!p.lastUpdated) p.lastUpdated = new Date().toISOString();
+            return p;
+        });
+
         renderProductTable();
         if(role==="admin"){ renderDashboardCards(); renderCategoryCharts(); }
     }catch(err){ showNotification(err.message,"error"); }
@@ -59,17 +65,27 @@ async function fetchProducts(){
 function renderProductTable(){
     table.innerHTML="";
     products.forEach(p=>{
+        const lastUpdated = p.lastUpdated ? formatDateTime(p.lastUpdated) : "-";
         table.innerHTML+=`
         <tr>
             <td>${p.name}</td>
             <td>${p.category}</td>
             <td>${p.qty}</td>
+            <td>${lastUpdated}</td>
             <td class="actions">
                 ${role==="admin"?`<button class="edit" onclick="editProduct(${p.id})">Edit</button>
                 <button class="delete" onclick="deleteProduct(${p.id})">Delete</button>`:""}
             </td>
         </tr>`;
     });
+}
+
+function formatDateTime(dt){
+    const d = new Date(dt);
+    const options = { month:"long", day:"numeric", year:"numeric" };
+    const date = d.toLocaleDateString(undefined, options);
+    const time = d.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"});
+    return `${date}: ${time}`;
 }
 
 function renderDashboardCards(){
