@@ -72,17 +72,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"txvf5uji3h"},{"Name":"integrity","Value":"sha256-cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A="},{"Name":"label","Value":"_content/Capstone/index.html"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1312"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022cVwwn9Dv3SkGKXKz5Di4r5Jk6PAm8cIqcVPel59y29A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 16:11:46 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Capstone/javascript/function.0npjt1gldr.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\function.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0npjt1gldr"},{"Name":"integrity","Value":"sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="},{"Name":"label","Value":"_content/Capstone/javascript/function.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7247"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 16:23:59 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Capstone/javascript/function.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\function.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7247"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 16:23:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cM44UR\u002BZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7150"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cM44UR\u002BZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 16:33:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Capstone/javascript/function.wo7qde86um.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\function.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wo7qde86um"},{"Name":"integrity","Value":"sha256-cM44UR\u002BZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw="},{"Name":"label","Value":"_content/Capstone/javascript/function.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7150"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cM44UR\u002BZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 16:33:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Capstone/javascript/script.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\script.js'))</AssetFile>

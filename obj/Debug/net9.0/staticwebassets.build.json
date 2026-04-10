@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1Zgnho+u+jpeq8fZh9eBEWKnZ5dgbeggbxFbP9S0zZ8=",
+  "Hash": "tvljoYFAO5iuPNJWWUGqfV2RPJ8NJ2QzXoIokyqsGhQ=",
   "Source": "Capstone",
   "BasePath": "_content/Capstone",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Identity": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-wo7qde86um.gz",
       "SourceId": "Capstone",
       "SourceType": "Discovered",
       "ContentRoot": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Capstone",
-      "RelativePath": "javascript/function#[.{fingerprint=0npjt1gldr}]?.js.gz",
+      "RelativePath": "javascript/function#[.{fingerprint=wo7qde86um}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ns96ig703o",
-      "Integrity": "F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=",
+      "Fingerprint": "o9rnrtw33q",
+      "Integrity": "NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0npjt1gldr",
-      "Integrity": "dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=",
+      "Fingerprint": "wo7qde86um",
+      "Integrity": "cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/javascript/function.js"
@@ -1474,13 +1474,13 @@
       ]
     },
     {
-      "Route": "javascript/function.0npjt1gldr.js",
-      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Route": "javascript/function.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-wo7qde86um.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000446229362"
+          "Quality": "0.000458085204"
         }
       ],
       "ResponseHeaders": [
@@ -1490,19 +1490,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2240"
+          "Value": "2182"
         },
         {
           "Name": "ETag",
-          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
+          "Value": "\"NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+          "Value": "Wed, 08 Apr 2026 16:33:49 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -1518,26 +1518,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
+          "Value": "W/\"cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "0npjt1gldr"
-        },
-        {
-          "Name": "label",
-          "Value": "javascript/function.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
+          "Value": "sha256-cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw="
         }
       ]
     },
     {
-      "Route": "javascript/function.0npjt1gldr.js",
+      "Route": "javascript/function.js",
       "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1547,7 +1539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7247"
+          "Value": "7150"
         },
         {
           "Name": "Content-Type",
@@ -1555,11 +1547,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
+          "Value": "\"cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+          "Value": "Wed, 08 Apr 2026 16:33:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.js.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-wo7qde86um.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:33:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.wo7qde86um.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-wo7qde86um.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000458085204"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2182"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:33:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wo7qde86um"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/function.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/function.wo7qde86um.js",
+      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Apr 2026 16:33:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1569,7 +1706,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0npjt1gldr"
+          "Value": "wo7qde86um"
         },
         {
           "Name": "label",
@@ -1577,13 +1714,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
+          "Value": "sha256-cM44UR+ZZVo2c6aG1w/kfIYVSH5P9CrohqnvQaaowPw="
         }
       ]
     },
     {
-      "Route": "javascript/function.0npjt1gldr.js.gz",
-      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
+      "Route": "javascript/function.wo7qde86um.js.gz",
+      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-wo7qde86um.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1592,7 +1729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2240"
+          "Value": "2182"
         },
         {
           "Name": "Content-Type",
@@ -1600,11 +1737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
+          "Value": "\"NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
+          "Value": "Wed, 08 Apr 2026 16:33:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1622,7 +1759,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0npjt1gldr"
+          "Value": "wo7qde86um"
         },
         {
           "Name": "label",
@@ -1630,144 +1767,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0="
-        }
-      ]
-    },
-    {
-      "Route": "javascript/function.js",
-      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000446229362"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2240"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
-        }
-      ]
-    },
-    {
-      "Route": "javascript/function.js",
-      "AssetFile": "/home/archlinux/Downloads/capstone/wwwroot/javascript/function.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7247"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dNaqL7K6RL2ccNC/CCttD0pf2dAW6hMZTaxDK8P0nxo="
-        }
-      ]
-    },
-    {
-      "Route": "javascript/function.js.gz",
-      "AssetFile": "/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/2rq9vei6kk-0npjt1gldr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2240"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Apr 2026 16:23:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-F3lIe6NlLcAaj/5XygjsR0WltuJBLomjBP3wLpv4Et0="
+          "Value": "sha256-NMcuaXukT5unVS0KQMwbVi9kGY0Tq2Ii00xMLzlheuQ="
         }
       ]
     },
